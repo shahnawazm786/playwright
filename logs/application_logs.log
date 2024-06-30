@@ -1,0 +1,17 @@
+2024-06-30 16:20:26 [main] INFO  java.util.zip.DataFormatException - Date format for US region
+2024-06-30 16:20:26 [main] INFO  java.util.zip.DataFormatException - String created for date of us region
+2024-06-30 16:20:43 [main] INFO  java.util.zip.DataFormatException - Date format for US region
+2024-06-30 16:20:43 [main] INFO  java.util.zip.DataFormatException - String created for date of us region
+2024-06-30 16:20:43 [main] INFO  java.util.zip.DataFormatException - date format
+2024-06-30 16:20:43 [main] INFO  java.util.zip.DataFormatException - date parsed
+2024-06-30 16:20:43 [main] INFO  java.util.zip.DataFormatException - date printed
+2024-06-30 16:24:53 [main] INFO  org.example.Apps - Playwright --
+2024-06-30 16:24:56 [main] INFO  org.example.Apps - browser type
+2024-06-30 16:24:56 [main] INFO  org.example.Apps - browser chromium
+2024-06-30 16:24:56 [main] INFO  org.example.Apps - browser launch
+2024-06-30 16:24:56 [main] INFO  org.example.Apps - browser launched....
+2024-06-30 16:25:37 [main] INFO  org.example.DateFormatterExample - Date format for US region
+2024-06-30 16:25:37 [main] INFO  org.example.DateFormatterExample - String created for date of us region
+2024-06-30 16:25:37 [main] INFO  org.example.DateFormatterExample - date format
+2024-06-30 16:25:37 [main] INFO  org.example.DateFormatterExample - date parsed
+2024-06-30 16:25:37 [main] INFO  org.example.DateFormatterExample - date printed
