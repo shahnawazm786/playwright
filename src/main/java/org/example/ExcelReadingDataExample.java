@@ -4,16 +4,18 @@ import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import java.io.*;
 import java.util.Iterator;
 
 public class ExcelReadingDataExample {
     public static void main(String[] args) {
-        File excel=new File("src/main/resournces/employee.xlsx");
+        File excel=new File("src/main/resources/employee.xlsx");
         FileInputStream inputStream=null;
-        HSSFWorkbook workbook=null;
-        HSSFSheet sheet=null;
+        XSSFWorkbook workbook=null;
+        XSSFSheet sheet=null;
         try {
              inputStream= new FileInputStream(excel);
         }catch (FileNotFoundException exception){
@@ -21,7 +23,7 @@ public class ExcelReadingDataExample {
             System.out.println("File not found exception "+exception.getMessage());
         }
         try{
-        workbook=new HSSFWorkbook(inputStream);}catch (IOException ioException){
+        workbook=new XSSFWorkbook(inputStream);}catch (IOException ioException){
             ioException.printStackTrace();
             System.out.println("Reading file is difficult"+ioException.getMessage());
         }
