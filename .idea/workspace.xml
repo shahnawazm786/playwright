@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f255d27-c439-4bae-b634-85ec3bdf6b14" name="Changes" comment="playright tutorial">
+    <list default="true" id="3f255d27-c439-4bae-b634-85ec3bdf6b14" name="Changes" comment="excel and log4j2">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExcelReadingDataExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ExcelReadingDataExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Apps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Apps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DateFormatterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DateFormatterExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,8 +238,32 @@
       <option name="project" value="LOCAL" />
       <updated>1719742372237</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="excel and log4j2">
+      <created>1719743193097</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1719743193097</updated>
+    </task>
+    <task id="LOCAL-00023" summary="excel and log4j2">
+      <created>1719743195544</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1719743195544</updated>
+    </task>
+    <task id="LOCAL-00024" summary="excel and log4j2">
+      <created>1719743200507</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1719743200507</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -252,6 +278,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="playright tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="playright tutorial" />
+    <MESSAGE value="excel and log4j2" />
+    <option name="LAST_COMMIT_MESSAGE" value="excel and log4j2" />
   </component>
 </project>
