@@ -29,8 +29,13 @@ public class ExcelReadingDataExample {
         }
         sheet=workbook.getSheet("Sheet1");
         Iterator<Row> rows=sheet.rowIterator();
+
         while(rows.hasNext()){
-            Row row=rows.next();
+
+            Row row= rows.next();
+            if(row.getRowNum()==0 | row.getRowNum()==1){
+                continue;
+            }
             Iterator<Cell> cells=row.cellIterator();
             while(cells.hasNext()){
                 Cell cell=cells.next();
