@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f255d27-c439-4bae-b634-85ec3bdf6b14" name="Changes" comment="excel and log4j2">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Apps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Apps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DateFormatterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DateFormatterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExcelReadingDataExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ExcelReadingDataExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +256,49 @@
       <option name="project" value="LOCAL" />
       <updated>1719743200507</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="excel and log4j2">
+      <created>1719744957118</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1719744957118</updated>
+    </task>
+    <task id="LOCAL-00026" summary="excel and log4j2">
+      <created>1719744959800</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1719744959800</updated>
+    </task>
+    <task id="LOCAL-00027" summary="excel and log4j2">
+      <created>1719744962288</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1719744962288</updated>
+    </task>
+    <task id="LOCAL-00028" summary="excel and log4j2">
+      <created>1719744967589</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1719744967589</updated>
+    </task>
+    <task id="LOCAL-00029" summary="excel and log4j2">
+      <created>1719744971875</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1719744971875</updated>
+    </task>
+    <task id="LOCAL-00030" summary="excel and log4j2">
+      <created>1719744977750</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1719744977750</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="UnknownFeatures">
