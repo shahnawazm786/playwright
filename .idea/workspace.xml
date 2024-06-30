@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f255d27-c439-4bae-b634-85ec3bdf6b14" name="Changes" comment="">
+    <list default="true" id="3f255d27-c439-4bae-b634-85ec3bdf6b14" name="Changes" comment="playright tutorial">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Apps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DateFormatterExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +87,77 @@
       <option name="presentableId" value="Default" />
       <updated>1719376631327</updated>
     </task>
+    <task id="LOCAL-00001" summary="playright tutorial">
+      <created>1719728640895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719728640895</updated>
+    </task>
+    <task id="LOCAL-00002" summary="playright tutorial">
+      <created>1719728644883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719728644883</updated>
+    </task>
+    <task id="LOCAL-00003" summary="playright tutorial">
+      <created>1719728650546</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719728650546</updated>
+    </task>
+    <task id="LOCAL-00004" summary="playright tutorial">
+      <created>1719728654403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719728654403</updated>
+    </task>
+    <task id="LOCAL-00005" summary="playright tutorial">
+      <created>1719728658004</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719728658004</updated>
+    </task>
+    <task id="LOCAL-00006" summary="playright tutorial">
+      <created>1719728665468</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719728665468</updated>
+    </task>
+    <task id="LOCAL-00007" summary="playright tutorial">
+      <created>1719728670016</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719728670016</updated>
+    </task>
+    <task id="LOCAL-00008" summary="playright tutorial">
+      <created>1719728673982</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719728673982</updated>
+    </task>
+    <task id="LOCAL-00009" summary="playright tutorial">
+      <created>1719728678652</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719728678652</updated>
+    </task>
+    <task id="LOCAL-00010" summary="playright tutorial">
+      <created>1719728683597</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719728683597</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,5 +170,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="playright tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="playright tutorial" />
   </component>
 </project>
