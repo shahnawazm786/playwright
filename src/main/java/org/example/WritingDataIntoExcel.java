@@ -27,14 +27,14 @@ public class WritingDataIntoExcel {
         Map<String, Object[]> loginData=new HashMap<>();
         loginData.put("1",new Object[]{"RowNum","UserName","Password"});
         loginData.put("2",new Object[]{"1","Admin","Admin@123#"});
-        loginData.put("2",new Object[]{"2","Supervisor","Supervisor@123#"});
-        loginData.put("2",new Object[]{"3","Sales","Sales@123#"});
-        loginData.put("2",new Object[]{"4","SalesAdmin","SalesAdmin@123#"});
-        loginData.put("2",new Object[]{"5","SuperAdmin","SuperAdmin@123#"});
-        loginData.put("2",new Object[]{"6","DBAdmin","DBAdmin@123#"});
-        loginData.put("2",new Object[]{"7","Clerk","Clerk@123#"});
-        loginData.put("2",new Object[]{"8","HR","HR@123#"});
-        loginData.put("2",new Object[]{"9","HRAdmin","HRAdmin@123#"});
+        loginData.put("3",new Object[]{"2","Supervisor","Supervisor@123#"});
+        loginData.put("4",new Object[]{"3","Sales","Sales@123#"});
+        loginData.put("5",new Object[]{"4","SalesAdmin","SalesAdmin@123#"});
+        loginData.put("6",new Object[]{"5","SuperAdmin","SuperAdmin@123#"});
+        loginData.put("7",new Object[]{"6","DBAdmin","DBAdmin@123#"});
+        loginData.put("8",new Object[]{"7","Clerk","Clerk@123#"});
+        loginData.put("9",new Object[]{"8","HR","HR@123#"});
+        loginData.put("10",new Object[]{"9","HRAdmin","HRAdmin@123#"});
         log.info("Iterate data and write into sheet of the workbook");
         Set<String> rowsData=loginData.keySet();
         int rowID=0;
@@ -45,6 +45,7 @@ public class WritingDataIntoExcel {
             for(Object obj:LoginDataObject){
                 Cell cell= row.createCell(cellId++);
                 cell.setCellValue((String)obj);
+                System.out.println("Row id "+rowID +"Cell id "+cellId);
             }
         }
         log.info("Write the book into file .....");
