@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f255d27-c439-4bae-b634-85ec3bdf6b14" name="Changes" comment="properties">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3f255d27-c439-4bae-b634-85ec3bdf6b14" name="Changes" comment="collection frameworks">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,20 +119,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719376631327</updated>
-    </task>
-    <task id="LOCAL-00018" summary="playright tutorial">
-      <created>1719742235310</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1719742235310</updated>
-    </task>
-    <task id="LOCAL-00019" summary="playright tutorial">
-      <created>1719742240531</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1719742240531</updated>
     </task>
     <task id="LOCAL-00020" summary="playright tutorial">
       <created>1719742368363</created>
@@ -464,7 +449,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720791386030</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="collection frameworks">
+      <created>1720791586076</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1720791586076</updated>
+    </task>
+    <task id="LOCAL-00068" summary="collection frameworks">
+      <created>1720791591431</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1720791591431</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -485,6 +484,7 @@
     <MESSAGE value="playright tutorial" />
     <MESSAGE value="excel and log4j2" />
     <MESSAGE value="properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="properties" />
+    <MESSAGE value="collection frameworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="collection frameworks" />
   </component>
 </project>
