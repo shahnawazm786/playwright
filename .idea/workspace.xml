@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f255d27-c439-4bae-b634-85ec3bdf6b14" name="Changes" comment="excel and log4j2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/props/PropertiesWriteExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/application_logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/application_logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testdata.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WritingDataIntoExcel">
+  <component name="RunManager">
     <configuration name="Apps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Apps" />
       <module name="playwright-apps" />
@@ -116,27 +115,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719376631327</updated>
-    </task>
-    <task id="LOCAL-00009" summary="playright tutorial">
-      <created>1719728678652</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1719728678652</updated>
-    </task>
-    <task id="LOCAL-00010" summary="playright tutorial">
-      <created>1719728683597</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1719728683597</updated>
-    </task>
-    <task id="LOCAL-00011" summary="playright tutorial">
-      <created>1719729639506</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1719729639506</updated>
     </task>
     <task id="LOCAL-00012" summary="playright tutorial">
       <created>1719740389782</created>
@@ -460,7 +438,28 @@
       <option name="project" value="LOCAL" />
       <updated>1720233532586</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="excel and log4j2">
+      <created>1720790058272</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1720790058272</updated>
+    </task>
+    <task id="LOCAL-00059" summary="excel and log4j2">
+      <created>1720790063143</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1720790063143</updated>
+    </task>
+    <task id="LOCAL-00060" summary="excel and log4j2">
+      <created>1720790068686</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1720790068686</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="UnknownFeatures">
