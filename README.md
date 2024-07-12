@@ -1,7 +1,7 @@
 **Playwright Solution**
 In this solution we have complete solution of Playwright using java and cucumber
 
-Modifier    Class  Package  Subclass    World
+|Modifier|    | #Class|  | #Package |  | #Subclass |    | #World |
 
 public      Yes     Yes     Yes      Yes
 
