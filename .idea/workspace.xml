@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f255d27-c439-4bae-b634-85ec3bdf6b14" name="Changes" comment="collection frameworks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListLambdaExample.java" afterDir="false" />
+    <list default="true" id="3f255d27-c439-4bae-b634-85ec3bdf6b14" name="Changes" comment="lambda examples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,20 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719376631327</updated>
-    </task>
-    <task id="LOCAL-00025" summary="excel and log4j2">
-      <created>1719744957118</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1719744957118</updated>
-    </task>
-    <task id="LOCAL-00026" summary="excel and log4j2">
-      <created>1719744959800</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1719744959800</updated>
     </task>
     <task id="LOCAL-00027" summary="excel and log4j2">
       <created>1719744962288</created>
@@ -478,7 +464,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720794284957</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="lambda examples">
+      <created>1720795188189</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1720795188189</updated>
+    </task>
+    <task id="LOCAL-00075" summary="lambda examples">
+      <created>1720795194080</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1720795194080</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -500,6 +500,7 @@
     <MESSAGE value="excel and log4j2" />
     <MESSAGE value="properties" />
     <MESSAGE value="collection frameworks" />
-    <option name="LAST_COMMIT_MESSAGE" value="collection frameworks" />
+    <MESSAGE value="lambda examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda examples" />
   </component>
 </project>
