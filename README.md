@@ -1,10 +1,10 @@
 **Playwright Solution**
 <br>
-*** In this solution we have complete solution of Playwright using java and cucumber
+**In this solution we have complete solution of Playwright using java and cucumber**
 <br>
 <br>
 * Access Modifier in Java
-* <br>
+  <br>
 <!-- TABLE_GENERATE_START -->
 | Modifier |    Class|  Package | Subclass | World |
 |---------|------| -------- |--------  |-------|
